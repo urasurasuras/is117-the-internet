@@ -1,5 +1,5 @@
 # The Internet (combined)
-[Link to GitHub Pages](https://urasurasuras.github.io/HowTheInternetWorks/)
+[Link to GitHub Pages](https://urasurasuras.github.io/is117-the-internet/)
 
  * [``design_Hero-Page.pdf``](https://github.com/urasurasuras/is117-the-internet/blob/main/design_Hero-Page.pdf) initial hero page design
  * [``design_Content-Page.pdf``](https://github.com/urasurasuras/is117-the-internet/blob/main/design_Content-Page.pdf) content page design
